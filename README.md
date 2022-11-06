@@ -34,9 +34,9 @@ The objective of this project is to understand the SMS spam collection dataset a
 
 ## :book: Modelling
 
-<li>Lets use complement naive bayes classifier for training as each feature represents the frequency of the word in each message and to correct the severe assumptions made due to the imbalanced dataset.</li> 
-<li>Bag-of-Words is used for feature extraction from text since just the frequency of words needs to be considered instead of their importance.</li> 
-<li>Both of these processes are combined in a pipeline.</li>
+<li>Complement naive bayes classifier was used for training as each feature represents the frequency of the word in each message and to correct the severe assumptions made due to the imbalanced dataset.</li> 
+<li>Bag-of-Words was used for feature extraction from text since just the frequency of words needs to be considered instead of their importance.</li> 
+<li>Both of these processes were combined in a pipeline.</li>
 
 ## 📘: Conclusion
 
