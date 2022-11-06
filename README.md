@@ -32,11 +32,14 @@ The objective of this project is to understand the SMS spam collection dataset a
 6.	Modelling data.
 7.	Conclusion.
 
+## :book: Text Processing
+
+<li>Stemming is used for text normalization since getting base words is more crucial than the meaning of words to determine whether the message is positive or not.</li> 
+<li>Bag-of-Words was used for feature extraction from text since just the frequency of words needs to be considered instead of their importance.</li> 
+
 ## :book: Modelling
 
 <li>Complement naive bayes classifier was used for training as each feature represents the frequency of the word in each message and to correct the severe assumptions made due to the imbalanced dataset.</li> 
-<li>Bag-of-Words was used for feature extraction from text since just the frequency of words needs to be considered instead of their importance.</li> 
-<li>Both of these processes were combined in a pipeline.</li>
 
 ## 📘: Conclusion
 
