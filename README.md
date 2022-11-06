@@ -40,7 +40,7 @@ The objective of this project is to understand the SMS spam collection dataset a
 
 ## 📘: Conclusion
 
-<img src="Images/result_spam.png" alt="Result">
+<img src="Images/result_spam_1.png" alt="Result">
 
 ## :scroll: Credits
 
